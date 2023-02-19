@@ -1,0 +1,12 @@
+{
+  "name": "DB_Connection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/LiraFi/DB_Connection.git",
+  "author": "Iryna",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2"
+  }
+}
